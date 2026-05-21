@@ -1,0 +1,10 @@
+# Example Output
+
+Input:
+
+La2(MoO4)3 and Eu doped compounds were investigated using powder XRD and UV luminescence.
+
+Output:
+
+- La
+- Eu
